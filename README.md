@@ -85,15 +85,15 @@ Conduct exploratory data analysis to answer the project's key questions and obje
 25. Which customer type pays the most in VAT?
 
 ## Revenue And Profit Calculations
-   COGS = unit_price * quantity
-VAT = 5% * COGS
-total(gross_sales) = VAT + COGS
-grossProfit(grossIncome) = total(gross_sales) - COGS
-Gross Margin = (gross income / total revenue)  
-Unit Price = 45.79
-Quantity = 7
-COGS = 45.79 * 7 = 320.53
-VAT = 5% * COGS = 5% * 320.53 = 16.0265
-Total = VAT + COGS = 16.0265 + 320.53 = 336.5565
-Gross Margin Percentage = (gross income / total revenue) * 100 ≈ 4.76%  
-**Commit Your Changes**:
+ COGS = unit_price * quantity.
+VAT = 5% * COGS.
+total(gross_sales) = VAT + COGS.
+grossProfit(grossIncome) = total(gross_sales) - COGS.
+Gross Margin = (gross income / total revenue)  .
+Unit Price = 45.79.
+Quantity = 7.
+COGS = 45.79 * 7 = 320.53.
+VAT = 5% * COGS = 5% * 320.53 = 16.0265.
+Total = VAT + COGS = 16.0265 + 320.53 = 336.5565.
+Gross Margin Percentage = (gross income / total revenue) * 100 ≈ 4.76% . 
+
